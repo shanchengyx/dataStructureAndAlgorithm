@@ -2,6 +2,9 @@ package com.gyx.stack;
 
 import java.util.Scanner;
 
+/**
+ * 数组实现栈
+ */
 public class ArrayStackDemo {
     public static void main(String args[]) {
         ArrayStack stack = new ArrayStack(10);//初始化栈

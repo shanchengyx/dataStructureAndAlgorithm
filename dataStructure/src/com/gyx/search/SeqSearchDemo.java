@@ -1,5 +1,8 @@
 package com.gyx.search;
 
+/**
+ * 线性查找
+ */
 public class SeqSearchDemo {
     public static void main(String args[]) {
         int[] array = {439, 23, 7, 82, 5, 8};

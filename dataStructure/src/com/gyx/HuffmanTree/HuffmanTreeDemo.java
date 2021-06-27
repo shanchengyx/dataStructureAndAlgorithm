@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * 实现一个哈夫曼树
+ */
 public class HuffmanTreeDemo {
     public static void main(String[] args) {
         int[] array = {3, 6, 7, 10, 5};

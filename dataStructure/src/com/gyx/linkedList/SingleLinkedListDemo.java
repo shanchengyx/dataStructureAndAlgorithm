@@ -1,5 +1,8 @@
 package com.gyx.linkedList;
 
+/**
+ * 单向链表
+ */
 public class SingleLinkedListDemo {
     public static void main(String args[]) {
         HeroNode hero1 = new HeroNode(1, "宋江", "及时雨");

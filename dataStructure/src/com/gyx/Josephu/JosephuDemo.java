@@ -1,5 +1,8 @@
 package com.gyx.Josephu;
 
+/**
+ * 约瑟夫问题
+ */
 public class JosephuDemo {
     public static void main(String args[]) {
         JosephuList list = new JosephuList();//新建链表

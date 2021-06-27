@@ -3,6 +3,9 @@ package com.gyx.sort;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 冒泡排序
+ */
 public class BubbleSortDemo {
     public static void main(String args[]) {
         sortTime();

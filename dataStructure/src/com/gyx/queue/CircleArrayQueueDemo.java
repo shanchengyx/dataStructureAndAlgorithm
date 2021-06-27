@@ -2,6 +2,9 @@ package com.gyx.queue;
 
 import java.util.Scanner;
 
+/**
+ * 循环数组实现队列
+ */
 public class CircleArrayQueueDemo {
     public static void main(String args[]) {
         CircleArrayQueue queue = new CircleArrayQueue(4);

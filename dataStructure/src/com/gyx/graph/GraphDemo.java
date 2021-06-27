@@ -5,6 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/**
+ * 图的基本功能实现
+ */
 public class GraphDemo {
     public static void main(String[] args) {
 //        String[] vertex = {"A", "B", "C", "D", "E"};//结点的值

@@ -1,5 +1,8 @@
 package com.gyx.linkedList;
 
+/**
+ * 双向链表
+ */
 public class DoubleLinkedListDemo {
     public static void main(String args[]) {
         //定义结点

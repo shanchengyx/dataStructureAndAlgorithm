@@ -1,5 +1,8 @@
 package com.gyx.stack;
 
+/**
+ * 逆波兰表达式实现计算器
+ */
 public class CalculatorDemo {
     public static void main(String args[]) {
         CalculatorStack numStack = new CalculatorStack(20);//数栈

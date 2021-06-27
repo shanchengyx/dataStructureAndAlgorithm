@@ -2,6 +2,9 @@ package com.gyx.queue;
 
 import java.util.Scanner;
 
+/**
+ * 数组实现不可复用的队列
+ */
 public class Queue {
     public static void main(String args[]) {
         ArrayQueue queue = new ArrayQueue(3);

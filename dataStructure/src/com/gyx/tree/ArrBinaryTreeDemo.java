@@ -1,5 +1,8 @@
 package com.gyx.tree;
 
+/**
+ * 数组实现的顺序存储二叉树
+ */
 public class ArrBinaryTreeDemo {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7};

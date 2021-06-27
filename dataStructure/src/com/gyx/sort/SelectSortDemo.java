@@ -3,6 +3,9 @@ package com.gyx.sort;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 选择排序
+ */
 public class SelectSortDemo {
     public static void main(String args[]) {
         sortTime();

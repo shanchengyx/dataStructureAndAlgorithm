@@ -3,6 +3,9 @@ package com.gyx.huffmancode;
 import java.io.*;
 import java.util.*;
 
+/**
+ * 哈夫曼编码
+ */
 public class HuffmanCodeDemo {
     public static void main(String[] args) {
         HuffmanTree huffmanTree = new HuffmanTree();//哈夫曼树

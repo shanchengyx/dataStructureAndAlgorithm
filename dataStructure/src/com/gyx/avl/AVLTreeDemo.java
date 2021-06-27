@@ -1,5 +1,8 @@
 package com.gyx.avl;
 
+/**
+ * avl树
+ */
 public class AVLTreeDemo {
     public static void main(String[] args) {
         int[] array = {10, 11, 7, 6, 8, 9};

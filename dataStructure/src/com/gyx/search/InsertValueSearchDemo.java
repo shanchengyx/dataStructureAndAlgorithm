@@ -6,6 +6,9 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * 插值查找
+ */
 public class InsertValueSearchDemo {
     public static void main(String args[]) {
         int[] array = {31, 65, 8, 232, 9, 56, 9};

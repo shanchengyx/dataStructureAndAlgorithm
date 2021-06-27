@@ -2,6 +2,9 @@ package com.gyx.hashTable;
 
 import java.util.Scanner;
 
+/**
+ * 实现基本的hash表
+ */
 public class HashTableDemo {
     public static void main(String[] args) {
         HashTable hashTable = new HashTable(7);

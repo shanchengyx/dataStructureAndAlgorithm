@@ -3,6 +3,9 @@ package com.gyx.sort;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 快速排序
+ */
 public class QuickSortDemo {
     public static void main(String args[]) {
         sortTime();

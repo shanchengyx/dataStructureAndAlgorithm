@@ -1,5 +1,8 @@
 package com.gyx.binarysorttree;
 
+/**
+ * 二叉排序树
+ */
 public class BinarySortTreeDemo {
     public static void main(String[] args) {
         int[] array = {3, 10, 15, 6, 9, 1, 14};

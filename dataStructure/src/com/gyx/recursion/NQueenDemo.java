@@ -1,5 +1,8 @@
 package com.gyx.recursion;
 
+/**
+ * n皇后问题
+ */
 public class NQueenDemo {
     public static void main(String args[]) {
         int dimension = 8;

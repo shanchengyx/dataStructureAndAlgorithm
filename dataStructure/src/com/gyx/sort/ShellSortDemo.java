@@ -3,6 +3,9 @@ package com.gyx.sort;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 希尔排序
+ */
 public class ShellSortDemo {
     public static void main(String args[]) {
         sortTime();

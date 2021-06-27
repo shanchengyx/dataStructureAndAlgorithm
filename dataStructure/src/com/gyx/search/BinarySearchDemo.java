@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 二叉查找
+ */
 public class BinarySearchDemo {
     public static void main(String args[]) {
         int[] array = {31, 65, 8, 232, 9, 56, 9};

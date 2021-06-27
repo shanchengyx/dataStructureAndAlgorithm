@@ -1,5 +1,8 @@
 package com.gyx.tree;
 
+/**
+ * 实现一个基本的二叉树
+ */
 public class BinaryTreeDemo {
     public static void main(String[] args) {
         //创建二叉树和结点

@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ * 逆波兰表达式
+ */
 public class PolandNotation {
     public static void main(String args[]) {
 //        String sufixxExpressionn = "4 5 * 8 - 60 + 8 2 / +";//逆波兰表达式

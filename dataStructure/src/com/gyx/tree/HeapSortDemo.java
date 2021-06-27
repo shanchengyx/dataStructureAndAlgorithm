@@ -4,6 +4,9 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
 
+/**
+ * 堆排序
+ */
 public class HeapSortDemo {
     public static void main(String[] args) {
         int[] array = {21, 6, 8, 32, 5, 4, 20, 25, 1};

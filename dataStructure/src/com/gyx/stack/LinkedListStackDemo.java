@@ -2,6 +2,9 @@ package com.gyx.stack;
 
 import java.util.Scanner;
 
+/**
+ * 链表实现栈
+ */
 public class LinkedListStackDemo {
     public static void main(String args[]) {
         LinkedListStack stack = new LinkedListStack(5);//初始化栈
